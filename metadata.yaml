@@ -1,0 +1,52 @@
+_repo: Contes-bruns_11766
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, H. de (Honoré de)
+    - De Balzac, Honoré
+    - Saint-Aubin, Horace de
+    - Balzac, Honore de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+  - agent_name: Chasles, Philarète
+    alias: Chasles, Philarete
+    birthdate: 1798
+    deathdate: 1873
+    gutenberg_agent_id: '40214'
+    url: http://www.gutenberg.org/2009/agents/40214
+  - agent_name: Rabou, Charles
+    aliases:
+    - Rabou, Charles Felix Henri
+    - Rabou, Charles Félix Henri
+    birthdate: 1803
+    deathdate: 1870
+    gutenberg_agent_id: '40215'
+    url: http://www.gutenberg.org/2009/agents/40215
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11766'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction, French'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Une conversation entre onze heures et minuit / Balzac -- L'oeil sans
+  paupière / Chasles -- Sara la danseuse / Rabou -- Une bonne fortune / Chasles --
+  Tobias Guarnerius / Rabou -- La fosse de l'avare / Chasles -- Les trois soeurs /
+  Chasles -- Les regrets / Rabou -- Le ministère public / Rabou -- Le grand d'Espagne
+  / Balzac.
+title: Contes bruns
+url: http://www.gutenberg.org/ebooks/11766
